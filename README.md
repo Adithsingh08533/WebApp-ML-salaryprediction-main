@@ -2,6 +2,9 @@
 
 Hello! This is my application named "Salary Prediction".
 
+🔗 **Live Demo**: [Click here to view the deployed app](https://webapp-ml-salaryprediction-main-c9faewfkn4xfftwtpmj6gv.streamlit.app/)
+
+
 ## About this project
 This is a Machine Learning web application built in Python using Streamlit.  
 I used real-world data to create a machine learning model, analyzed the data, built the model, and then developed the web app using Streamlit.
